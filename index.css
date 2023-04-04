@@ -1,0 +1,31 @@
+/* Write your code here. */
+.bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+.title {
+  font-family: "Bree Serif";
+  font-weight: 600;
+  font-size: 40px;
+}
+.btn {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.like-button {
+  color: #ffffff;
+  background-color: #eab308;
+}
+
+.comment-button {
+  color: #323f4b;
+  background-color: #ffffff;
+}
+
+.share-button {
+  color: #ffffff;
+  background-color: #1d4ed8;
+}
